@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { ExternalLink } from "lucide-react";
 import { engineers } from "@/data/engineers";
 import { PageHeader } from "@/components/page-header";

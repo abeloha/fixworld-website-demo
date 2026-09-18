@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { builtProducts } from "@/data/built-products";
 import { SectionHeading } from "@/components/ui/section-heading";
 import { Reveal } from "@/components/ui/reveal";

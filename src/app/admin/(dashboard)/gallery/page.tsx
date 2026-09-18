@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { Plus, Trash2 } from "lucide-react";
 import { galleryItems } from "@/data/gallery";
 

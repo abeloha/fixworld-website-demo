@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { AnimatedText } from "@/components/ui/animated-text";
 import { Reveal } from "@/components/ui/reveal";
 

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { useRouter } from "next/navigation";
 import { Lock, Mail } from "lucide-react";
 

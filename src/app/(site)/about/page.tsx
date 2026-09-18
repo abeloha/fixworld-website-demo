@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { PageHeader } from "@/components/page-header";
 import { Reveal } from "@/components/ui/reveal";
 import { settings } from "@/lib/settings";

@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { Quote } from "lucide-react";
 import { testimonials } from "@/data/testimonials";
 import { settings } from "@/lib/settings";

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { ArrowUpRight } from "lucide-react";
 import { services } from "@/data/services";
 import { PageHeader } from "@/components/page-header";

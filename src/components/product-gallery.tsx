@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { cn } from "@/lib/utils";
 
 export function ProductGallery({ images, name }: { images: string[]; name: string }) {

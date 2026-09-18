@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "@/components/app-image";
 import { ExternalLink } from "lucide-react";
 import type { Engineer } from "@/lib/types";
 
